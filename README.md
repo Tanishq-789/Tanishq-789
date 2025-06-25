@@ -49,7 +49,7 @@ I'm a passionate developer who loves building intelligent systems 🤖, automati
 ### 🔗 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/tanishq-shinde977/)
-- 💡 [LeetCode]([https://leetcode.com/tanishq_shinde/](https://leetcode.com/u/Tanishq7-77/))
+- 💡 [LeetCode](https://leetcode.com/tanishq_shinde/](https://leetcode.com/u/Tanishq7-77/))
 
 ---
 
