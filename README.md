@@ -16,9 +16,30 @@ I'm a passionate developer who loves building intelligent systems 🤖, automati
 
 ### 🛠️ Tech Stack
 
-`💻 Python` `🧠 C++` `🌐 JavaScript` `🟢 Node.js` `⚛️ React.js` `🚀 FastAPI`  
-`🗃️ MongoDB` `🧮 SQL` `🎨 Tailwind CSS` `🔬 TensorFlow` `🕷️ Selenium` `🧼 BeautifulSoup`  
-`📬 Postman` `🔧 Git`  `📊 Streamlit` `📲 Twilio API`
+<p align="left"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://imgs.search.brave.com/RFlQZuciaUEjreK0AGRBEwk5odyAX2s8zR6LmdTFdCs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5wbmdhYWEuY29t/LzI5Ni8xOTQ3Mjk2/LW1pZGRsZS5wbmc" alt="pandas" width="40" height="40"/>
+  <img src="https://imgs.search.brave.com/Sk3w5l_i5lFYRAz74BJVf0ezIbtujMMV6uOoJYCal5s/rs:fit:0:180:1:0/g:ce/aHR0cHM6Ly91c2Vy/LWltYWdlcy5naXRo/dWJ1c2VyY29udGVu/dC5jb20vMTA0MTQ1/NzczLzE3MTM3NTcw/My1mZTNmYTkyZS1h/MWNjLTRlZTYtYWVj/My0xZGU4YjgxZmNh/NjIuc3Zn" alt="seaborn" width="40" height="40"/>
+  <img src="https://imgs.search.brave.com/k5XDGe9kYeYck1Xl0KH1IkZZRGY2eNmQXLRFmDlax8g/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5zcHJlYWRzaGly/dG1lZGlhLmNvbS9p/bWFnZS1zZXJ2ZXIv/djEvY29tcG9zaXRp/b25zL1QxMjdBMVBB/NDE5MlBUMjFYNlkx/MUQxMDQ3MDYyMTEx/VzIxMDVIMTEzNC92/aWV3cy8xLHdpZHRo/PTY1MCxoZWlnaHQ9/NjUwLGFwcGVhcmFu/Y2VJZD0xLGJhY2tn/cm91bmRDb2xvcj1m/ZmZmZmYuanBn" alt="sklearn" width="40" height="40"/>
+  <img src="https://imgs.search.brave.com/nyqAObCCl7ZCoShFv1dSsN-ai_kY4gcpHbrP1FSeIro/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Vla2xvZ28u/Y29tL2xvZ28tcG5n/LzM3LzEvcHl0b3Jj/aC1sb2dvLXBuZ19z/ZWVrbG9nby0zNzIx/OTkucG5n" alt="pytorch" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
+  <img src="https://imgs.search.brave.com/M3-GdQJ3ruks1vPbzEMO9BLQVBt5qMiWRtnMGl2kSfE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9icm93/c2Vyc3RhY2sud3Bl/bmdpbmVwb3dlcmVk/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/MjAyMy8wNi9ic19s/b2dvLTI1MHgxMDgu/anBn" alt="beautifulsoup" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://imgs.search.brave.com/Rx_KesS0taCqw0pCgGT2t7ZpIoxqbkdrCcaZ5wnlk1A/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdHJl/YW1saXQuaW8vaW1h/Z2VzL2JyYW5kL3N0/cmVhbWxpdC1sb2dv/LXNlY29uZGFyeS1j/b2xvcm1hcmstbGln/aHR0ZXh0LnBuZw" alt="streamlit" width="40" height="40"/>
+  <img src="https://imgs.search.brave.com/QDGzuf3IZoulIrxR8ZP4FeeKdUWcg9TJ1sW-IUeddsU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9sb2dv/dHlwLnVzL2ZpbGUv/dHdpbGlvLnN2Zw" alt="twilio" width="40" height="40"/>
+  <img src="https://imgs.search.brave.com/fxAEu7dQUAbxsVjTbaZzw8Erj9xx0_COkdv9jGpsD6U/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL3RodW1icy82/MmEyMmMxYzQ0M2I3/ODdkNTgzNzEyNjYu/cG5n" alt="firebase" width="40" height="40"/>
+  <img src="https://imgs.search.brave.com/db93ye6MVozwupEyejc5fnMtAv_0UJeHSj5sO9gURVQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9ibG9n/LmxvZ3JvY2tldC5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MjIvMDkvYnVpbGQt/Y2hyb21lLWV4dGVu/c2lvbi1wbGFzbW8t/cmVhY3QucG5n" alt="plasmo" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+</p>
 
 ---
 
@@ -48,8 +69,12 @@ I'm a passionate developer who loves building intelligent systems 🤖, automati
 
 ### 🔗 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/tanishq-shinde977/)
-- 💡 [LeetCode](https://leetcode.com/tanishq_shinde/](https://leetcode.com/u/Tanishq7-77/))
+<p align="left">
+  <a href="https://linkedin.com/in/tanishq-shinde977" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanishq-shinde977" height="30" width="40" /></a>
+  <a href="https://kaggle.com/tanishqshinde775" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tanishqshinde775" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/tanishqshinde777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tanishqshinde777" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/u/Tanishq7-77/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tanishq7-77" height="30" width="40" /></a>
+</p>
 
 ---
 
