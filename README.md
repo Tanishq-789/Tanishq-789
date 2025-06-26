@@ -37,8 +37,7 @@ I'm a passionate developer who loves building intelligent systems 🤖, automati
   <img src="https://imgs.search.brave.com/Rx_KesS0taCqw0pCgGT2t7ZpIoxqbkdrCcaZ5wnlk1A/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdHJl/YW1saXQuaW8vaW1h/Z2VzL2JyYW5kL3N0/cmVhbWxpdC1sb2dv/LXNlY29uZGFyeS1j/b2xvcm1hcmstbGln/aHR0ZXh0LnBuZw" alt="streamlit" width="40" height="40"/>
   <img src="https://imgs.search.brave.com/QDGzuf3IZoulIrxR8ZP4FeeKdUWcg9TJ1sW-IUeddsU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9sb2dv/dHlwLnVzL2ZpbGUv/dHdpbGlvLnN2Zw" alt="twilio" width="40" height="40"/>
   <img src="https://imgs.search.brave.com/fxAEu7dQUAbxsVjTbaZzw8Erj9xx0_COkdv9jGpsD6U/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL3RodW1icy82/MmEyMmMxYzQ0M2I3/ODdkNTgzNzEyNjYu/cG5n" alt="firebase" width="40" height="40"/>
-  <img src="https://imgs.search.brave.com/db93ye6MVozwupEyejc5fnMtAv_0UJeHSj5sO9gURVQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9ibG9n/LmxvZ3JvY2tldC5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MjIvMDkvYnVpbGQt/Y2hyb21lLWV4dGVu/c2lvbi1wbGFzbW8t/cmVhY3QucG5n" alt="plasmo" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+  <img 
 </p>
 
 ---
