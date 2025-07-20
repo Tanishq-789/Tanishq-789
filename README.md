@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm Tanishq Shinde
 
-I'm a passionate developer who loves building intelligent systems 🤖, automating workflows 🔄, and solving problems with code 💡. With a strong foundation in computer science and a knack for real-world applications 🌍, I bring ideas to life through data-driven solutions and AI-powered tools 🤖📊.
+I'm a passionate developer who loves building intelligent systems 🤖, automating workflows 🔄, and solving problems with code 💡. With a strong foundation in computer science and a knack for real-world applications 🌍, I bring ideas to life through data-driven solutions and AI-powered tools 🤖📊 .
 
 ---
 
