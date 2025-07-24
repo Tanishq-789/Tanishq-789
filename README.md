@@ -26,8 +26,13 @@ I'm a passionate developer who loves building intelligent systems 🤖, automati
 
 </div>
 
----
+<h2 align="left">👨‍💻 My LeetCode Stats</h2>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Tanishq7-77?theme=dark&font=Fira%20Code" alt="LeetCode Stats">
+</p>
 
+
+---
 ### Tech Stack
 
 <p align="left">
