@@ -13,6 +13,20 @@ I'm a passionate developer who loves building intelligent systems 🤖, automati
   Built a Deep Learning-based skin condition predictor 🧠 with 94% accuracy (ResNet-50). Processed 2,394+ images 🖼️ to ensure high-quality results. Built with TensorFlow, Streamlit, and PyTorch 💻.
 
 ---
+## 📊 My GitHub Stats
+
+<div align="center">
+
+<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanishq-789&theme=github_dark">
+<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tanishq-789&theme=github_dark">
+<img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishq-789&layout=compact&theme=github_dark&hide_border=true">
+<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tanishq-789&theme=github_dark">
+<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tanishq-789&theme=github_dark&utcOffset=5">
+<img height="166em" src="https://github-readme-stats.vercel.app/api?username=Tanishq-789&show_icons=true&locale=en&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true">
+
+</div>
+
+---
 
 ### Tech Stack
 
@@ -58,14 +72,6 @@ I'm a passionate developer who loves building intelligent systems 🤖, automati
   <a href="https://www.leetcode.com/u/Tanishq7-77/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tanishq7-77" height="30" width="40" /></a>
 </p>
 
----
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Tanishq-789"><img src="https://github-readme-stats.vercel.app/api?username=Tanishq-789&show_icons=true&hide=contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Tanishq-789's GitHub stats" /></a>
-
-<a href="https://github.com/Tanishq-789" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishq-789&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 ---
 
 Thanks for visiting! Feel free to ⭐ one of my projects or reach out for collaboration! 🙌
