@@ -86,10 +86,10 @@ I'm a passionate developer who loves building intelligent systems 🤖, automati
 ### 🔗 Let's Connect
 
 <p align="left">
+   <a href="https://www.leetcode.com/u/Tanishq7-77/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tanishq7-77" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/tanishq-shinde977" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanishq-shinde977" height="30" width="40" /></a>
   <a href="https://kaggle.com/tanishqshinde775" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tanishqshinde775" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/tanishqshinde777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tanishqshinde777" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/u/Tanishq7-77/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tanishq7-77" height="30" width="40" /></a>
 </p>
 
 <div align="center">
