@@ -2,7 +2,9 @@
 
 I'm a passionate developer who loves building intelligent systems 🤖, automating workflows 🔄, and solving problems with code 💡. With a strong foundation in computer science and a knack for real-world applications 🌍, I bring ideas to life through data-driven solutions and AI-powered tools 🤖📊 .
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+</div>
 
 ### 🚀 Projects I'm Proud Of
 
@@ -12,7 +14,10 @@ I'm a passionate developer who loves building intelligent systems 🤖, automati
 - **🧴 Personalized Skincare Recommendation System**  
   Built a Deep Learning-based skin condition predictor 🧠 with 94% accuracy (ResNet-50). Processed 2,394+ images 🖼️ to ensure high-quality results. Built with TensorFlow, Streamlit, and PyTorch 💻.
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+</div>
+
 ## 📊 My GitHub Stats
 
 <div align="center">
@@ -31,8 +36,10 @@ I'm a passionate developer who loves building intelligent systems 🤖, automati
   <img src="https://leetcard.jacoblin.cool/Tanishq7-77?theme=dark&font=Fira%20Code" alt="LeetCode Stats">
 </p>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+</div>
 
----
 ### Tech Stack
 
 <p align="left">
@@ -42,7 +49,9 @@ I'm a passionate developer who loves building intelligent systems 🤖, automati
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" width="36" height="36" alt="Kubernetes" title="Kubernetes"/></a>
 </p>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+</div>
 
 ### 📚 I'm Into
 
@@ -51,7 +60,9 @@ I'm a passionate developer who loves building intelligent systems 🤖, automati
 - 🏗️ Scalable backend systems  
 - 🧹 Clean code & software design
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+</div>
 
 ### 🏆 Achievements
 
@@ -59,14 +70,18 @@ I'm a passionate developer who loves building intelligent systems 🤖, automati
 - 🥈 **Ranked 776 / 28,244** in LeetCode Weekly Contest 455
 - 🎓 CGPA: **9.05**
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+</div>
 
 ### 📜 Certifications
 
 - 🧠 [Machine Learning Specialization – Andrew Ng](https://www.coursera.org/account/accomplishments/specialization/YUXDYDZLE8W1)  
 - 🤖 [Salesforce Certified AI Associate](https://www.linkedin.com/posts/tanishq-shinde977_certified-ai-associate-certificate-activity-7287810735458455553-gWA5?utm_source=share&utm_medium=member_desktop)
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+</div>
 
 ### 🔗 Let's Connect
 
@@ -77,6 +92,8 @@ I'm a passionate developer who loves building intelligent systems 🤖, automati
   <a href="https://www.leetcode.com/u/Tanishq7-77/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tanishq7-77" height="30" width="40" /></a>
 </p>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+</div>
 
 Thanks for visiting! Feel free to ⭐ one of my projects or reach out for collaboration! 🙌
