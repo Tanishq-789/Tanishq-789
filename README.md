@@ -9,10 +9,12 @@ I'm a passionate developer who loves building intelligent systems 🤖, automati
 ### 🚀 Projects I'm Proud Of
 
 - **🤖 Wedding Planner AI Backend System**  
-  Automated 5+ wedding workflows (guest invites, vendor discovery, travel coordination) with Python bots — reducing manual effort by 85% ⚙️. Integrated WhatsApp (Twilio API) 📱 & email tracking 📬, scraped 60+ service providers, and generated optimized outputs using Streamlit & MongoDB 💾.
+  - Automated 5+ wedding workflows (guest invites, vendor discovery, travel coordination) with Python bots — reducing manual effort by 85% ⚙️.
+  - Integrated WhatsApp (Twilio API) 📱 & email tracking 📬, scraped 60+ service providers, and generated optimized outputs using Streamlit & MongoDB 💾.
 
 - **🧴 Personalized Skincare Recommendation System**  
-  Built a Deep Learning-based skin condition predictor 🧠 with 94% accuracy (ResNet-50). Processed 2,394+ images 🖼️ to ensure high-quality results. Built with TensorFlow, Streamlit, and PyTorch 💻.
+  - Built a Deep Learning-based skin condition predictor 🧠 with 94% accuracy (ResNet-50).
+  - Processed 2,394+ images 🖼️ to ensure high-quality results. Built with TensorFlow, Streamlit, and PyTorch 💻.
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
