@@ -13,7 +13,7 @@ I'm a passionate developer who loves building intelligent systems 🤖, automati
   - Integrated WhatsApp (Twilio API) 📱 & email tracking 📬, scraped 60+ service providers, and generated optimized outputs using Streamlit & MongoDB 💾.
 
 - **🧴 Personalized Skincare Recommendation System**  
-  - Built a Deep Learning-based skin condition predictor 🧠 with 95.60% accuracy (EfficientNet-50).
+  - Built a Deep Learning-based skin condition predictor 🧠 with 95.60% accuracy (EfficientNetV2B0).
   - Processed 2,394+ images 🖼️ to ensure high-quality results. Built with TensorFlow, Streamlit, and PyTorch 💻.
 
 <div align="center">
