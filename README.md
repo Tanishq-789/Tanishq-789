@@ -68,7 +68,7 @@ I'm a passionate developer who loves building intelligent systems 🤖, automati
 
 ### 🏆 Achievements
 
-- 💻 700+ LeetCode problems solved | **Rating: 1819**  
+- 💻 700+ LeetCode problems solved | **Rating: 1868**  
 - 🥈 **Ranked 776 / 28,244** in LeetCode Weekly Contest 455
 - 🎓 CGPA: **9.05**
 
