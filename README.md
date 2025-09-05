@@ -1,6 +1,8 @@
-## 👋 Hi there! I'm Tanishq Shinde
+![Header](./src/header_.png)
 
-I'm a passionate developer who loves building intelligent systems 🤖, automating workflows 🔄, and solving problems with code 💡. With a strong foundation in computer science and a knack for real-world applications 🌍, I bring ideas to life through data-driven solutions and AI-powered tools 🤖📊 .
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1000&height=100&font=40&lines=👋+Hi+there!+I'm+Tanishq+Shinde;Passionate+developer+who+loves+building+intelligent+systems+🤖;Automating+workflows+🔄+and+solving+problems+with+code+💡;Strong+foundation+in+computer+science+and+real-world+applications+🌍;Bringing+ideas+to+life+through+data-driven+solutions+📊+and+AI-powered+tools+🤖)](https://git.io/typing-svg)
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
@@ -37,6 +39,32 @@ I'm a passionate developer who loves building intelligent systems 🤖, automati
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Tanishq7-77?theme=dark&font=Fira%20Code" alt="LeetCode Stats">
 </p>
+
+## 🏅 My LeetCode Badges
+
+### 🔥 Streak Badges  
+<img src="https://assets.leetcode.com/static_assets/marketing/500.gif" height="80" width="80"/> <img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" height="80" width="80"/> 
+
+### 📅 Annual Badges  
+<img src="https://assets.leetcode.com/static_assets/marketing/2024.gif" height="80" width="80"/> <img src="https://assets.leetcode.com/static_assets/marketing/2025.gif" height="80" width="80"/>
+
+### 🎯 2025 Streak Badges
+<img src="https://assets.leetcode.com/static_assets/others/200.gif" height="80" width="80"/> <img src="https://assets.leetcode.com/static_assets/others/25100.gif" height="80" width="80"/> <img src="https://assets.leetcode.com/static_assets/others/2550.gif" height="80" width="80"/>
+
+### 🎯 2024 Streak Badges
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" height="80" width="80"/> <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" height="80" width="80"/> <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" height="80" width="80"/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+</div>
+
+### 📆 Monthly Badges  
+
+#### 2024  
+ <img src="https://leetcode.com/static/images/badges/2024/gif/2024-04.gif" height="80" width="80"/> <img src="https://leetcode.com/static/images/badges/2024/gif/2024-05.gif" height="80" width="80"/> <img src="https://leetcode.com/static/images/badges/2024/gif/2024-06.gif" height="80" width="80"/> <img src="https://leetcode.com/static/images/badges/2024/gif/2024-07.gif" height="80" width="80"/> <img src="https://leetcode.com/static/images/badges/2024/gif/2024-08.gif" height="80" width="80"/> <img src="https://leetcode.com/static/images/badges/2024/gif/2024-09.gif" height="80" width="80"/> <img src="https://leetcode.com/static/images/badges/2024/gif/2024-10.gif" height="80" width="80"/> <img src="https://leetcode.com/static/images/badges/2024/gif/2024-11.gif" height="80" width="80"/> <img src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif" height="80" width="80"/>
+
+#### 2025  
+<img src="https://assets.leetcode.com/static_assets/marketing/202501.gif" height="80" width="80"/> <img src="https://assets.leetcode.com/static_assets/marketing/202502.gif" height="80" width="80"/> <img src="https://assets.leetcode.com/static_assets/marketing/202503.gif" height="80" width="80"/> <img src="https://assets.leetcode.com/static_assets/marketing/202504.gif" height="80" width="80"/> <img src="https://assets.leetcode.com/static_assets/marketing/202505.gif" height="80" width="80"/> <img src="https://assets.leetcode.com/static_assets/marketing/202506.gif" height="80" width="80"/> <img src="https://assets.leetcode.com/static_assets/marketing/202507.gif" height="80" width="80"/> <img src="https://assets.leetcode.com/static_assets/marketing/202508.gif" height="80" width="80"/>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
