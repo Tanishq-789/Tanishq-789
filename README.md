@@ -27,7 +27,6 @@
 <div align="center">
 
 <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanishq-789&theme=github_dark">
-<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tanishq-789&theme=github_dark">
 <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishq-789&layout=compact&theme=github_dark&hide_border=true">
 <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tanishq-789&theme=github_dark">
 <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tanishq-789&theme=github_dark&utcOffset=5">
