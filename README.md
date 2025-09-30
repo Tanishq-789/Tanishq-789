@@ -94,7 +94,7 @@
 
 ### 🏆 Achievements
 
-- 💻 800+ LeetCode problems solved | **Rating: 1868**  
+- 💻 900+ LeetCode problems solved | **Rating: 1868**  
 - 🥈 **Ranked 776 / 28,244** in LeetCode Weekly Contest 455
 - 🎓 CGPA: **9.08**
 
