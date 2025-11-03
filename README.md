@@ -44,7 +44,7 @@
 ### 🔥 Streak Badges  
 <img src="https://assets.leetcode.com/static_assets/marketing/500.gif" height="80" width="80"/> <img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" height="80" width="80"/> 
 
-### 📅 Annual Badges  
+### 📅 Annual Badges 
 <img src="https://assets.leetcode.com/static_assets/marketing/2024.gif" height="80" width="80"/> <img src="https://assets.leetcode.com/static_assets/marketing/2025.gif" height="80" width="80"/>
 
 ### 🎯 2025 Streak Badges
